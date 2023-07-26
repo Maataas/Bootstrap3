@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.spacer {
+    margin-top: 100px;
+}
+
+.mel {
+    background-color: aqua;
+}
+
+.container {
+    background-color: white;
+    width: 750px;
+}
+
+.ilg {
+    width: 343px;
+    text-align: left;
+}
+
+.pad {
+    padding-left: 50px;
+}
+
+.eil {
+    width: 724px;
+    text-align: left;
+}
+
+.bt {
+    width: 160px;
+}
+
+.p1 {
+    text-align: center;
+    color: white;
+}
+p {
+    color: grey
+}
+
+.a1 {
+    color: white;
+}
